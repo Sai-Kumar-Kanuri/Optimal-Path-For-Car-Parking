@@ -56,7 +56,7 @@ Unmark position (i, j), i.e output[i][j] = 0
 Time Complexity: O(2^(n^2)).\
 The recursion can run upper-bound 2^(n^2) times.\
 Space Complexity: O(n^2).\
-Output matrix is required so an extra space of size n*n is needed.\
+Output matrix is required so an extra space of size n*n is needed.
 
 considering a grid of size MxN, and car has to move from 0,0 to M-1,N-1
 (some cells may be blocked and car can move either down or right)
