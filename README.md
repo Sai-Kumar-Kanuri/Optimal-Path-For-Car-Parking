@@ -26,11 +26,11 @@ The backtracking technique is used to solve this problem. It uses
 recursive calling to find the solution by building a solution step by step
 increasing values with time. It removes the solutions that don't give rise to
 the problem's solution based on the constraints given to solve the problem.
-Backtracking algorithm is applied to some specific types of problems,
+Backtracking algorithm is applied to some specific types of problems,/
 ● Decision problem is used to find a feasible solution of the
-problem.
+problem./
 ● Optimisation problem used to find the best solution that can be
-applied.
+applied./
 ● Enumeration problem used to find the set of all feasible
 solutions of the problem.
 
