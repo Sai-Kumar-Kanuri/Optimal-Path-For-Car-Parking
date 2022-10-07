@@ -2,8 +2,8 @@
 DAA Mini Project
 
 # Screenshots
-![](/Screenshot/DAAS1.png)
-![](/Screenshot/DAAS2.png)
+![](Screenshot/DAAS1.png)
+![](Screenshot/DAAS2.png)
 
 # Problem Statement
 
